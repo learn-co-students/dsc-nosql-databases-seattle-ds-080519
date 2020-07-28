@@ -6,9 +6,10 @@
 In this lesson, we'll learn about some of the various kinds of NoSQL databases, and their use cases.
 
 ## Objectives
-You will be able to:
-- Explain why NoSQL is useful
-- Explore real-world use cases of NoSQL databases
+You will be able to:  
+
+* Explain why NoSQL is useful  
+* Explore real-world use cases of NoSQL databases
 
 
 ## Why NoSQL?
